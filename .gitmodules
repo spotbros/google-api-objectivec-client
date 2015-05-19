@@ -1,0 +1,3 @@
+[submodule "Source/HTTPFetcher"]
+	path = Source/HTTPFetcher
+	url = https://github.com/spotbros/gtm-http-fetcher.git
